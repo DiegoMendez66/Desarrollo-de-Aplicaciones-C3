@@ -1,0 +1,73 @@
+html{
+	font-family: courier;
+	font-size: 20px;
+}
+
+center{
+	background-color: red;
+	color: white;
+}
+
+.form-login{
+	font-size: 25px;
+	/*font-family: sans-serif;*/
+	width:  500px;
+	margin: 0 auto;
+	border: solid #A21228 3px;
+	text-align: center;
+	background-color: #E18E8B;
+	font-weight: bold;
+}
+
+input{
+	font-size: 20px;
+}
+
+.button{
+	font-family: courier; font-weight: bold;
+	font-size: 22px;
+	border-radius: 6px;
+	border: 3px solid #204F98;
+    background-color: white;
+	text-decoration: none;
+}
+.button:hover{
+    background-color: black;
+    color:  white;
+  }
+.body-login{
+	background-image: url(../img/img1.jpg);
+	background-repeat:no-repeat;
+}
+
+.t-adm-agr{
+	color: red;
+	margin: 0 auto;
+}
+h2{
+	text-align: center;
+}
+button{
+	margin-left: 30%;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: courier;
+}
+.t-adm-list{
+	text-align: center;
+}
+.encabezado{
+	background-color:#EEC0B6 ;
+}
+a{
+	font-size: 20px;
+	font-weight: bolder;
+}
+.body-user{
+	margin-left: 435px;
+}
+.table-relaciones{
+	margin: 0 auto;
+	text-align: center;
+	font-weight: bold;
+}
